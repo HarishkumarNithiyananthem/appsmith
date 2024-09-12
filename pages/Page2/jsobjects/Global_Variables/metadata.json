@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "Global_Variables",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      },
+      {
+        "name": "random_inputs",
+        "value": "[]"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_Global_Variables",
+  "deleted": false,
+  "gitSyncId": "66e28094323ffe0be4cebbf6_66e29252323ffe0be4cebd25"
+}

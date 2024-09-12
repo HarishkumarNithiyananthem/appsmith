@@ -1,0 +1,36 @@
+{
+  "pages": [
+    {
+      "id": "Page1",
+      "isDefault": true
+    },
+    {
+      "id": "Page2",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "FIXED"
+    }
+  },
+  "color": "#C2DAF0",
+  "icon": "lotus",
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "Chance_chance_https://cdn.jsdelivr.net/npm/chance@1.1.12/chance.min.js"
+    },
+    {
+      "uidString": "v_https://cdn.jsdelivr.net/npm/voca@1.4.1/index.min.js"
+    }
+  ],
+  "publishedCustomJSLibs": [],
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "collapseInvisibleWidgets": true,
+  "isManualUpdate": false,
+  "deleted": false
+}
