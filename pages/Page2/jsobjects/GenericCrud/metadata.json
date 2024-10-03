@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "GenericCrud",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "disable_widget",
+        "value": "false"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_GenericCrud",
+  "deleted": false,
+  "gitSyncId": "66f4297a323ffe0be4cee07b_66f42c0c323ffe0be4cee0dc"
+}

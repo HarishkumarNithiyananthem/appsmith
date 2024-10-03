@@ -1,0 +1,36 @@
+{
+  "unpublishedCollection": {
+    "name": "Server",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "Cloud_Url",
+        "value": "\"http://10.147.17.226:8000\""
+      },
+      {
+        "name": "API_KEY_NAME",
+        "value": "\"X-VSC-API-KEY\""
+      },
+      {
+        "name": "API_KEY_VALUE",
+        "value": "\"7ffb53ee3cf3b255ae4e5d1728f5a253382209feefcd9ff32c7c3a88d86e5b24\""
+      },
+      {
+        "name": "current_log_level",
+        "value": "\"debug\""
+      },
+      {
+        "name": "log_levels",
+        "value": "{\n  \"debug\": 0,\n  \"info\": 1,\n  \"error\": 2,\n  \"critical\": 3\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_Server",
+  "deleted": false,
+  "gitSyncId": "66f4297a323ffe0be4cee07b_66f42b4d323ffe0be4cee08c"
+}

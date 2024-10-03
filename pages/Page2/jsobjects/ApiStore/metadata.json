@@ -1,0 +1,20 @@
+{
+  "unpublishedCollection": {
+    "name": "ApiStore",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "store",
+        "value": "{\n  \"organisations_search\": {\n    \"url\": \"/organisations/search\"\n  },\n  \"organisations_post\": {\n    \"url\": \"/organisations/\"\n  },\n  \"organisations_put\": {\n    \"url\": \"/organisations/\"\n  },\n  \"organisations_delete\": {\n    \"url\": \"/organisations/\"\n  },\n  \"platform_resources_search\": {\n    \"url\": \"/platform_resources/search\"\n  },\n  \"platform_resources_post\": {\n    \"url\": \"/platform_resources/\"\n  },\n  \"platform_resources_put\": {\n    \"url\": \"/platform_resources/\"\n  },\n  \"platform_resources_delete\": {\n    \"url\": \"/platform_resources/\"\n  },\n  \"users_search\": {\n    \"url\": \"/users/search\"\n  },\n  \"users_delete\": {\n    \"url\": \"/users/\"\n  },\n  \"step_type_search\": {\n    \"url\": \"/step_types/search\"\n  },\n  \"step_type_post\": {\n    \"url\": \"/step_types/\"\n  },\n  \"step_type_put\": {\n    \"url\": \"/step_types/\"\n  },\n  \"step_type_delete\": {\n    \"url\": \"/step_types/\"\n  },\n  \"create_default_roles\": {\n    \"url\": \"/roles/create_default_roles\"\n  },\n  \"questions_search\": {\n    \"url\": \"/questions/search\"\n  },\n  \"questions_post\": {\n    \"url\": \"/questions/\"\n  },\n  \"questions_delete\": {\n    \"url\": \"/questions/\"\n  },\n  \"owner_users_search\": {\n    \"url\": \"/roles/search_default_users\"\n  }\n}"
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_ApiStore",
+  "deleted": false,
+  "gitSyncId": "66f4297a323ffe0be4cee07b_66f42b63323ffe0be4cee09c"
+}

@@ -1,0 +1,28 @@
+{
+  "unpublishedCollection": {
+    "name": "GlobalVariables",
+    "pageId": "Page2",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [
+      {
+        "name": "textcolour",
+        "value": "\"#008695\""
+      },
+      {
+        "name": "boxshadow",
+        "value": "\"0px 0px 4px 3px rgba(0, 0, 0, 0.25)\""
+      },
+      {
+        "name": "admin_default",
+        "value": "\"Organisation\""
+      }
+    ],
+    "userPermissions": []
+  },
+  "id": "Page2_GlobalVariables",
+  "deleted": false,
+  "gitSyncId": "66f4297a323ffe0be4cee07b_66f42c22323ffe0be4cee0e8"
+}
